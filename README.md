@@ -1,5 +1,6 @@
 # Mini-projects
-'''Basic Calculator'''
+#Basic Calculator
+
 print("~~~~~~~~~Welcome to Basic Calculator~~~~~~~~~~~~~~~")
 num1 = float(input("Enter a First number here : "))
 num2 = float(input("Enter a Second number here : "))
